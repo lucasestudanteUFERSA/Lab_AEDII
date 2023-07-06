@@ -1,6 +1,6 @@
 # Lab_AEDII
 
-labaratorio de aalgoritimo e estruturas II
+labaratorio de algoritimo e estruturas II
 
 participante:
 
